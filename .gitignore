@@ -1,0 +1,5 @@
+clapmic
+soundcheck
+*.log
+*.bak*
+.DS_Store
